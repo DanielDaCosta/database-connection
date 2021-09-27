@@ -15,4 +15,5 @@ Install `psycopg2-binary`: `pip install psycopg2-binary`.
 4. Check `example.py` for how to use the module.
 
 # References & Acknowledgments
+`psycopg2` methods
 - https://www.psycopg.org/docs/usage.html
