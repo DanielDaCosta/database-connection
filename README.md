@@ -1,4 +1,4 @@
-# Database-Connection
+# Database Connection
 Script for connecting and executing queries into Postgres database.
 
 # Prerequesites
