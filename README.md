@@ -1,7 +1,7 @@
 # Database Connection
 Script for connecting and executing queries into Postgres database.
 
-# Prerequesites
+# Prerequisites
 Set-up your Database credentials into Parameter Store/AWS System Manager.
 
 Install `psycopg2-binary`: `pip install psycopg2-binary`.
