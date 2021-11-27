@@ -1,5 +1,5 @@
 # Database Connection
-Script for connecting and executing queries into Postgres database.
+Python script for connecting and executing queries into Postgres database.
 
 # Prerequisites
 Set-up your Database credentials into Parameter Store/AWS System Manager.
